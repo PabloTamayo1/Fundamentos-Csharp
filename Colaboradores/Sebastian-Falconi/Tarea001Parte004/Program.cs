@@ -1,0 +1,21 @@
+﻿
+int suma1 = 5;
+int suma2 = 10;
+int total1 = suma1 + suma2;
+Console.WriteLine("El resultado de la suma es: " + total1);
+float resta1 = 10;
+float resta2 = 8;
+float total2 = resta1 - resta2;
+Console.WriteLine("El resultado de la resta es: " + total2);
+int multiplicacion1 = 5;
+int multiplicacion2 = 10;
+int total3 = multiplicacion1 * multiplicacion2;
+Console.WriteLine("El resultado de la multiplicacion es: " + total3);
+float division1 = 10;
+float division2 = 8;
+float total4 = division1 / division2;
+Console.WriteLine("El resultado de la division es: " + total4);
+int modulo1 = 5;
+int modulo2 = 10;
+int total5 = modulo1 % modulo2;
+Console.WriteLine("El resultado del módulo es: " + total5);
