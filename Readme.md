@@ -2,6 +2,33 @@
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.OPHyvzKPm-__ITS-OO0STwHaHa%26pid%3DApi&f=1&ipt=fb81fc3e68a32ea7ba18277ece191674890d1e91493d0c1ada7d3e3b11be48a6&ipo=images)
 
+## Contenidos:
+
+**Introducción a C#**
+
+- Que necesitas para aprender C#
+- Por que aprender C#
+- Que son los algoritmos
+- Instalando Visual Studio 2022
+- Aprendiendo a usar Visual Studio
+
+**Primeros Pasos con C#**
+
+- Tipos de Datos Primitivos
+- Variables
+-  La palabra reservada var
+-  Uso de constantes
+- Operadores aritmeticos
+- Operadores relacionales
+- Strings en C#
+
+**Bucles y Estructuras de control en C#**
+
+- Condicinal IF
+- Condicional Switch
+- Ciclos While y Do While
+- Ciclos For
+
 ## ¿Qué necesitas para aprender C#?
 
 Para aprender C#, necesitarás tener conocimientos básicos de programación y un entorno de desarrollo integrado (IDE) como Visual Studio 2022.
@@ -49,6 +76,7 @@ class Program
     }
 }
 ```
+
 **Creado por:** Diego Saavedra.
 
 **Institución:** Universidad de las Fuerzas Armadas ESPE.
