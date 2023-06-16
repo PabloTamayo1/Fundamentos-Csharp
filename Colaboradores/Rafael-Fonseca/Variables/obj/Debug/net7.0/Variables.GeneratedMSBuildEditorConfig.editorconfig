@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Variables
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Disco HDD\Repositorio Github\FORKS\Fundamentos-CChar\Colaboradores\Rafael-Fonseca\Variables\
+=======
+build_property.ProjectDir = C:\Users\emili\Desktop\Fundamentos-CChar\Colaboradores\Rafael-Fonseca\Variables\
+>>>>>>> 5dbb874e7171fa6e1d5f5cd05c196e0001dd6a72
